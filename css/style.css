@@ -19,7 +19,7 @@ body{
 
 nav .collapse li{
     transition: 0.4s ;
-    border-radius: 10%;
+    padding: 0 5px;
     
 }
 nav .collapse li:hover
